@@ -1,0 +1,6 @@
+{
+  "name": "Asrin Jairi — Kad Profil Digital",
+  "description": "Kad Profil Digital NFC rasmi untuk Asrin Jairi bin Asri, Juruteknik Komputer di JPICT-SICT Jabatan Pendidikan W.P Labuan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
